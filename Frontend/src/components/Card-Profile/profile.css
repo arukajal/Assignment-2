@@ -1,0 +1,17 @@
+.card {
+  box-shadow: 1px 1px 1px 1px solid grey;
+  margin: auto;
+  text-align: center;
+  padding: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+.profile {
+  padding-left: 100px;
+  padding-top: 50px;
+}
